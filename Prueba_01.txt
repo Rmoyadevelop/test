@@ -1,4 +1,4 @@
 Primer archivo de prueba para subir desde repo local a repo remoto.
 Segundo : Actualización del archivo en cuestión.
 Tercero : Actualización del archivo con información clave.
-Cuarto : Actualizacion desde repositorio Remoto.
+Cuarto : Actualización desde repositorio Remoto.
