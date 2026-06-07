@@ -3,4 +3,5 @@ Agregar cambios al archivo desde repo remoto.
 Agrega cambios desde repo local a repo remoto.
 Agrega mas cambios al local a repo remoto.
 Agrega un nuevo cambio del código al archivo prueba 2.
+Agrega nuevo cambio del código al archivo prueba 2.
 
