@@ -1,2 +1,3 @@
 Archivo creado en Codespace de GitHub
-Actualizando el codigoen Codespace de GitHub
+Actualizando el código en Codespace de GitHub
+Actualizando el código en repositorio local para luego subir al repositorio Remoto
